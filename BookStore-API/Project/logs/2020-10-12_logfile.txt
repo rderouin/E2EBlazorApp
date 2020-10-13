@@ -2,3 +2,19 @@
 2020-10-12 16:29:35.5312 DEBUG Got a value!
 2020-10-12 16:30:32.9682 WARN This is a warning
 2020-10-12 16:34:45.6395 ERROR This is an error!
+2020-10-12 20:01:58.5166 INFO Attempted Get All Authors
+2020-10-12 20:02:00.0427 INFO Response has all authors
+2020-10-12 20:20:36.0942 INFO Attempted Get All Authors
+2020-10-12 20:20:37.5828 INFO Response has all authors
+2020-10-12 20:21:38.1938 INFO Attempted Get All Authors
+2020-10-12 20:21:38.3114 INFO Response has all authors
+2020-10-12 20:22:10.4134 INFO Getting author for Id: 1
+2020-10-12 20:22:10.5833 WARN Author with id: 1 was not found!
+2020-10-12 20:59:33.7854 INFO Attempted Get All Authors
+2020-10-12 20:59:35.1553 INFO Response has all authors
+2020-10-12 21:02:10.0021 INFO Attempted Get All Authors
+2020-10-12 21:02:11.3867 INFO Response has all authors
+2020-10-12 21:02:33.7650 INFO Attempted Get All Authors
+2020-10-12 21:02:34.0096 INFO Response has all authors
+2020-10-12 21:03:30.1792 INFO Creating new authorRuss Derouin
+2020-10-12 21:03:45.1967 INFO Author: Russ Derouin has been created!
