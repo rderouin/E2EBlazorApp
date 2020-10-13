@@ -22,5 +22,11 @@
             <param name="id"></param>
             <returns></returns>
         </member>
+        <member name="T:BookStore_API.Data.Book">
+            <summary>
+            POCO object representing Books table in the E2EBookStore database
+            Nullable fields are allowed for Year, Price and AuthorId
+            </summary>
+        </member>
     </members>
 </doc>
